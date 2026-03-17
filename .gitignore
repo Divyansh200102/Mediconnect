@@ -3,3 +3,5 @@ backend/venv/
 __pycache__/
 *.pyc
 .vercel/
+backend/.env
+backend/.env.example
